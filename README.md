@@ -18,7 +18,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://miotsdata.netlify.app/en/]
+<a href="https://miotsdata.netlify.app/en/" target="blank"><img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <a href="https://linkedin.com/in/matteo-miotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matteo-miotto" height="30" width="40" /></a>
 <a href="https://instagram.com/miotsdata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miotsdata" height="30" width="40" /></a>
 </p>
