@@ -42,6 +42,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coordinate su GGPLOT2](https://miotsdata.netlify.app/it/r/teoria/coordinates-ggplot2/coordinates/)
+- [Può l'mRNA modificare il DNA?](https://miotsdata.netlify.app/it/pillole/scienza/dna-mrna_metropoli/)
+- [Indici di centralità: quali sono e come possono trarre in inganno](https://miotsdata.netlify.app/it/pillole/analisi_dati/indici_centralita/indici_centralita/)
+- [Quella metropoli che è la cellula: introduzione](https://miotsdata.netlify.app/it/pillole/scienza/metropoli1/)
+- [Scales su GGPLOT2](https://miotsdata.netlify.app/it/r/teoria/scales-ggplot2/scales/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
