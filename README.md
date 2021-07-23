@@ -55,7 +55,7 @@
   <summary> GitHub Stats</summary>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmiots9&show_icons=true&locale=en&count_private=true&hide=prs&theme=tokyonight" alt="mmiots9" /></p>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmiots9&layout=compact&theme=tokyonight)](https://github.com/mmiots9/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmiots9&layout=compact&theme=tokyonight&hide=SCSS&langs_count=6))](https://github.com/mmiots9/github-readme-stats)
 
 </details>
 
