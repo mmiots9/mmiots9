@@ -48,6 +48,7 @@
 - [Can mRNA modify our DNA?](https://miotsdata.netlify.app/en/pillole/scienza/dna-mrna_metropoli/)
 - [Measures of central tendency: what they are and how they can be misleading](https://miotsdata.netlify.app/en/pillole/analisi_dati/indici_centralita/indici_centralita/)
 - [Welcome to celltropolis: introduction](https://miotsdata.netlify.app/en/pillole/scienza/metropoli1/)
+- [GGPLOT2 scales](https://miotsdata.netlify.app/en/r/teoria/scales-ggplot2/scales/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
