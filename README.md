@@ -43,12 +43,12 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The function for a 501 match](https://miotsdata.netlify.app/en/r/miei_pacchetti/mdarts/match/)
 - [Introduction to mdarts](https://miotsdata.netlify.app/en/r/miei_pacchetti/mdarts/intro/)
 - [Bash diary](https://miotsdata.netlify.app/en/bash/mie_funzioni/diary/)
 - [Handling a new dataset](https://miotsdata.netlify.app/en/r/teoria/datasetmanipulation/datasetmanipulation/)
 - [How to remember all keyboard shortcuts](https://miotsdata.netlify.app/en/bash/mie_funzioni/addshort_searchshort/)
 - [Measures of dispersion](https://miotsdata.netlify.app/en/pillole/analisi_dati/indici_dispersione/indici_dispersione/)
-- [GGPLOT2 coordinates](https://miotsdata.netlify.app/en/r/teoria/coordinates-ggplot2/coordinates/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
