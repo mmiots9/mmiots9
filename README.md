@@ -43,12 +43,12 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Manage git and github repo](https://miotsdata.netlify.app/en/bash/mie_funzioni/repoinfo/)
 - [Getting info from package classes](https://miotsdata.netlify.app/en/r/miei_pacchetti/mdarts/getoptions/)
 - [Normal distribution](https://miotsdata.netlify.app/en/pillole/analisi_dati/distnormale/distnormale/)
 - [The function for a 501 match](https://miotsdata.netlify.app/en/r/miei_pacchetti/mdarts/match/)
 - [Introduction to mdarts](https://miotsdata.netlify.app/en/r/miei_pacchetti/mdarts/intro/)
 - [Bash diary](https://miotsdata.netlify.app/en/bash/mie_funzioni/diary/)
-- [Handling a new dataset](https://miotsdata.netlify.app/en/r/teoria/datasetmanipulation/datasetmanipulation/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
