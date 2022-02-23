@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matteo</h1>
-<h3 align="center">Genomic Data Science master student from Italy 🇮🇹</h3>
+<h3 align="center">Genomic Data Science master student and bioinformatician from Milan, Italy 🇮🇹</h3>
 
 - 🔭 I’m currently working on [miotsdata](https://github.com/mmiots9/miotsdata)
 
-- 🌱 I’m currently learning **CSS, HTML, JS**
+- 🌱 I’m currently learning **everything I could**
 
 - 📝 I regularly write articles on [https://miotsdata.netlify.app/en/](https://miotsdata.netlify.app/en/)
 
-- 💬 Ask me about **R, data analysis**
+- 💬 Ask me about **R, data analysis, bash, statistics, git**
 
 - 📫 How to reach me **miotsdata@gmail.com**
 
@@ -34,7 +34,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
+<img align="left" alt="mySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <br>
 <br>
 
