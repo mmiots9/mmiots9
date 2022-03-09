@@ -44,12 +44,12 @@
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Numerical pills about the human body](https://miotsdata.netlify.app/en/pillole/scienza/numericorpo/)
 - [Function for a single-leg 501 training](https://miotsdata.netlify.app/en/r/miei_pacchetti/mdarts/training501/)
 - [Manage git and github repo](https://miotsdata.netlify.app/en/bash/mie_funzioni/repoinfo/)
 - [Getting info from package classes](https://miotsdata.netlify.app/en/r/miei_pacchetti/mdarts/getoptions/)
 - [Normal distribution](https://miotsdata.netlify.app/en/pillole/analisi_dati/distnormale/distnormale/)
 - [The function for a 501 match](https://miotsdata.netlify.app/en/r/miei_pacchetti/mdarts/match/)
-- [Introduction to mdarts](https://miotsdata.netlify.app/en/r/miei_pacchetti/mdarts/intro/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
