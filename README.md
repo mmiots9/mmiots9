@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matteo</h1>
-<h3 align="center">Genomic Data Science master student and bioinformatician from Milan, Italy 🇮🇹</h3>
+<h3 align="center">Coding lover and bioinformatician from Milan, Italy 🇮🇹</h3>
 
-- 🔭 I’m currently working as **bioinformatician** for a neurodevelopment research group
+- 🔭 I’m currently working as **bioinformatician** for a neurodevelopment research group in Milan
 
 - 🌱 I’m currently learning **everything I could**
 
